@@ -13,20 +13,11 @@
   <img align="center" alt="Pedro Davila - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro Davila - JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Pedro Davila - MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-   <img align="center" alt="Pedro Davila - Express" height="30" width="40" src="https://media.discordapp.net/attachments/925821601369432136/925880770730532944/20211229_193548.png?width=475&height=475">
   <img align="center" alt="Pedro Davila - REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro Davila - Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-</div>  
+   <img align="center" alt="Pedro Davila - TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </div>  
   
- ##
-  
-### Currently Studying
-
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Pedro Davila - TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Pedro Davila - NEXT" height="30" width="40" src="https://media.discordapp.net/attachments/925821601369432136/925880770411790416/20211229_193527.png?width=475&height=475">
-  <img align="center" alt="Pedro Davila - REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-</div>  
   
   ##
   
