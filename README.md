@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro
+## Olá, me chamo Pedro 👋
 ### Criei esse perfil para postar todos os projetos que irei fazer!
 
 <div align="center"><br>
