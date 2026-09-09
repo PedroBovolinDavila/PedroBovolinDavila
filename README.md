@@ -1,7 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedrobovolindavila&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+### Hi, I'm Pedro Bovolin!
+<p>Electrical Engineering<br/></p>
 
-### I'm Pedro Bovolin!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Bovolin&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pedrobovolindavila&theme=whatsapp-dark&hide_border=true" alt="GitHub Streak" /></a>
+    
 
-<p>Electrical Engineering Student<br/> C, C++, Ts</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrobovolindavila&langs_count=3&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=3&theme=dark_github)
+</p>
+
