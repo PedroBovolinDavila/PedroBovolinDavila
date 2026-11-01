@@ -1,1 +1,1 @@
-<img src="hermit_color.png" width="600">
+<img src="ouroboros_eremita.png" width="600">
